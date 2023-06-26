@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "etl dim_product", "etl dim_product\etl dim_product.dtproj", "{AD875076-DCA3-416B-8E70-64FDC6480DD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD875076-DCA3-416B-8E70-64FDC6480DD1}.Development|Default.ActiveCfg = Development
+		{AD875076-DCA3-416B-8E70-64FDC6480DD1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD1D293-1047-489E-BDDA-1606CE19A8C6}
+	EndGlobalSection
+EndGlobal
